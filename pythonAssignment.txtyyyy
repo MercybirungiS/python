@@ -1,0 +1,10 @@
+firstName="Hesed"
+lastName="Kisakye"
+yearOfBirth=2006
+currentYear=2021
+age=currentYear-yearOfBirth
+country="Uganda"
+fees=350000
+payment=100000
+balance=fees-payment
+school="Brilli
