@@ -12,8 +12,9 @@
 'UGANDA'
 >>> school.upper()
 'BRILLIANTHSC'
->>> print(f"Hello {firstName} {lastName} , welcome to {school.upper()} from {country.upper()}. Your fees balance is {balance} and you are {age} years old.")
-Hello Hesed Kisakye , welcome to BRILLIANTHSC from UGANDA. Your fees balance is 250000 and you are 15 years old.
+>>> print(f"Hello {firstName} {lastName} , welcome to {school.upper()} from {country.upper()}.\n Your fees balance is {balance} and you are {age} years old.")
+Hello Hesed Kisakye , welcome to BRILLIANTHSC from UGANDA. 
+Your fees balance is 250000 and you are 15 years old.
 >>> 
 
 
